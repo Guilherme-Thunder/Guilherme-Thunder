@@ -1,7 +1,12 @@
 # Opa, pode me chamar de Thunder
 
 - 🔭 Estou estudando HTML, CSS, Java e qualquer outra coisa 
-- 💬 Emoji pra alguma coisa
+- 🚲
+- 🥋
+- 💻🔌🖥
+- Sigma do Sul🗿🍷
+- TDS-2023 ---> Técnico em Desenvolvimento de Sistemas
+- RSTI-2024 --> Rio Grande do Sul Tecnologia da Informação
 ## Aqui tem alguma coisa pra tu olhar e sentir pena de mim
 <div>
   <a href="https://github.com/Guilherme-Thunder">
