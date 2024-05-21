@@ -38,5 +38,5 @@
   <img align="center" alt="Thunder-VSCode" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Thunder-Chrome" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
   <img align="center" alt="Thunder-DevIcons" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
-  <img align="center" alt="Thunder-DevIcons" heigth="30" width="40" src="./icons/Discord.svg">
+  <img align="center" alt="Thunder-Discord" heigth="30" width="40" src="./icons/Discord.svg">
 </div>
