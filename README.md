@@ -1,8 +1,7 @@
 # Opa, pode me chamar de Thunder
 
-- 🔭 Estou estudando HTML, CSS, Java e qualquer outra coisa 
-- 🚲
-- 🥋
+- 🔭 Estou estudando HTML🖍, CSS📄, JavaScript💻, Java☕,  e qualquer outra coisa 
+- 🥋🚲
 - 💻🔌🖥
 - Sigma do Sul🗿🍷
 - TDS-2023 ---> Técnico em Desenvolvimento de Sistemas
