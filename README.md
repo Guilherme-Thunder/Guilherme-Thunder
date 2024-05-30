@@ -1,6 +1,6 @@
 # Opa, pode me chamar de Thunder
 
-- 🔭 Estou estudando HTML🖍, CSS📄, JavaScript💻, Java☕,  e qualquer outra coisa 
+- 🔭 Estou estudando HTML🖍 , CSS📄 , JavaScript💻 , Java☕ ,  e qualquer outra coisa 
 - 🥋🚲
 - 💻🔌🖥
 - Sigma do Sul🗿🍷
