@@ -1,6 +1,6 @@
 # Opa, pode me chamar de Thunder
 
-- 🔭 Estou estudando HTML🖍 , CSS📄 , JavaScript💻 , Java☕ ,  e qualquer outra coisa 
+- ⌨🖱 Folhas de Estilo com Hiper Marcação, Café Codado, Café, Cobra, Elefante, Reação, Contador++, Escrever Código, Ir 
 - 🥋🚲
 - 💻🔌🖥
 - Sigma do Sul🗿🍷
