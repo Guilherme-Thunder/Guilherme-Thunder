@@ -80,5 +80,7 @@ Navegadores:
   <img align="center" alt="Thunder-Firefox" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" />
   <img align="center" alt="Thunder-Twitter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
   <img align="center" alt="Thunder-Facebook" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+  ![image](https://github.com/Guilherme-Thunder/Guilherme-Thunder/assets/151688223/b1bd0bc6-0e29-4971-a234-7199278ff13a)
+
   <br>
 </div>
